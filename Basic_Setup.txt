@@ -1,0 +1,21 @@
+. Install uv
+
+· Create a project folder named fastmcp-demo-server
+
+. Open the folder in vs code
+
+. Open terminal
+
+. Execute the command uv init.
+
+· Uv add fastmcp
+
+· Fastmcp version
+
+· Create a basic server
+
+. Test the server - uv run fastmcp dev inspector main.py    -->   (it opens fastmcp debugging tool)
+
+. Run the server - uv run fastmcp run main.py
+
+. Add the server to claude desktop - uv run fastmcp install claude-desktop main.py
